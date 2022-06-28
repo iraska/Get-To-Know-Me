@@ -5,7 +5,7 @@
 ***Since my childhood, I aim to embody my dreams and dream characters and I am passionately on the way to become a Game Developer.***
  
 ## Contact
-- *[Linkedin](www.linkedin.com/in/irem-turna)*
+- *[LinkedIn](www.linkedin.com/in/irem-turna)*
 - *[HackerRank](https://www.hackerrank.com/iraska)*
 - *[Patika.dev](https://app.patika.dev/iraska)*
 

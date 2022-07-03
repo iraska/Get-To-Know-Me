@@ -8,7 +8,7 @@
 - *[LinkedIn](www.linkedin.com/in/irem-turna)*
 - *[HackerRank](https://www.hackerrank.com/iraska)*
 - *[Patika.dev](https://app.patika.dev/iraska)*
-- *[UNITY](https://learn.unity.com/u/iremturna)*
+- *[Unity](https://learn.unity.com/u/iremturna)*
 
 ```C#
 Console.WriteLine("You can check out my repos :)");
